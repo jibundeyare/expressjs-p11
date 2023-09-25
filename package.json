@@ -1,0 +1,28 @@
+{
+  "name": "expressjs-p11",
+  "version": "1.0.0",
+  "description": "Ce repo contient une appli express.js de type « hello world » pour tester le déploiement.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jibundeyare/expressjs-p11.git"
+  },
+  "keywords": [
+    "appli",
+    "express.js",
+    "test",
+    "déploiement"
+  ],
+  "author": "Jibundeyare <contact@jibundeyare.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jibundeyare/expressjs-p11/issues"
+  },
+  "homepage": "https://github.com/jibundeyare/expressjs-p11#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
